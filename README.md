@@ -1,3 +1,5 @@
+![slide-1.png](./images/slide-1.png)
+
 # Workshop Developer Experience and User Personas
 
 The Developer Experience Workshop focuses on user-centered design in platform engineering. It introduces the concept of
