@@ -27,9 +27,9 @@ style: |
 ## Workshop Agenda
 
 - Einführung in das Konzept eines Platform Teams
-- Erläuterung von Developer Experience und User Experience
-- Einführung in User Personas
-- Hands-on: Erstellung von User Personas
+  - Erläuterung von Developer Experience und User Experience
+  - Einführung in User Personas
+  - Hands-on: Erstellung von User Personas
 
 ---
 
@@ -38,9 +38,9 @@ style: |
 # Die vier Team-Typen nach Team Topologies
 
 - Stream-Aligned Team
-- Complicated-Subsystem Team
-- Enabling Team
-- Platform Team
+  - Complicated-Subsystem Team
+  - Enabling Team
+  - Platform Team
 
 ![bg left](images/slide-3.png)
 
@@ -51,8 +51,8 @@ style: |
 ## Was ist überhaupt ein Platform Team?
 
 - Ein Platform Team hat die Aufgabe, Stream-Aligned Teams so zu unterstützen, dass diese weitestgehend autonom arbeiten können.
-- Die Stream-Aligned Teams sind vollumfänglich verantwortlich für die Entwicklung, den Betrieb und die Wartung ihrer Anwendungen
-- Ein Platform Team stellt interne Dienste bereit, die die kognitive Belastung der Stream-Aligned Teams bei der Entwicklung und dem Betrieb ihrer Anwendungen reduzieren.
+  - Die Stream-Aligned Teams sind vollumfänglich verantwortlich für die Entwicklung, den Betrieb und die Wartung ihrer Anwendungen
+  - Ein Platform Team stellt interne Dienste bereit, die die kognitive Belastung der Stream-Aligned Teams bei der Entwicklung und dem Betrieb ihrer Anwendungen reduzieren.
 
 <!-- _footer: Team Topologies, Matthew Skelton and Manuel Pais, Seite 151 -->
 
@@ -63,9 +63,9 @@ style: |
 ## Welches Verhalten wird von einem effizienten Platform Team erwartet?
 
 - Enge Zusammenarbeit mit Stream-Aligned Teams, um deren Bedürfnisse zu verstehen.
-- Anwendung von Fast-Prototyping-Methoden und Einbeziehung von Stream-Aligned Teams für schnelles Feedback zur Nützlichkeit der Dienstleistungen.
-- Hochwertige, zuverlässige Dienstleistungen, die regelmäßig auf Aktualität und Nutzbarkeit überprüft werden.
-- Nutzung der eigenen Dienstleistungen, um die Benutzererfahrung zu verstehen und zu verbessern.
+  - Anwendung von Fast-Prototyping-Methoden und Einbeziehung von Stream-Aligned Teams für schnelles Feedback zur Nützlichkeit der Dienstleistungen.
+  - Hochwertige, zuverlässige Dienstleistungen, die regelmäßig auf Aktualität und Nutzbarkeit überprüft werden.
+  - Nutzung der eigenen Dienstleistungen, um die Benutzererfahrung zu verstehen und zu verbessern.
 
 <!-- _footer: Team Topologies, Matthew Skelton and Manuel Pais, Seite 152 -->
 
@@ -89,11 +89,11 @@ style: |
 - **Plattform als Produkt**<br>
   Die Plattform ist nicht nur Infrastruktur, sie ist ein Produkt, das den Bedürfnissen ihrer Nutzer gerecht werden sollte.
 
-- **Nutzung von Produktentwicklungsmethoden**<br>
-  Platform Engineering nutzt Techniken der Produktentwicklung, einschließlich User Experience Design und User Research, um nutzerzentrierte Produkte zu schaffen.
+  - **Nutzung von Produktentwicklungsmethoden**<br>
+    Platform Engineering nutzt Techniken der Produktentwicklung, einschließlich User Experience Design und User Research, um nutzerzentrierte Produkte zu schaffen.
 
-- **Platform Thinking und Community-Building**<br>
-  Eine Plattform wird als Gemeinschaft gesehen, nicht nur als technisches Produkt. Sie fördert Zusammenarbeit, Wissensaustausch und gegenseitige Unterstützung.
+  - **Platform Thinking und Community-Building**<br>
+    Eine Plattform wird als Gemeinschaft gesehen, nicht nur als technisches Produkt. Sie fördert Zusammenarbeit, Wissensaustausch und gegenseitige Unterstützung.
 
 </font>
 
@@ -105,8 +105,8 @@ style: |
 
 
 - Developer Experience (DX) bezieht sich auf die Gesamterfahrung, die ein Entwickler hat, wenn er mit einem Produkt oder einer Plattform interagiert.
-- Es ist ein Teilbereich der User Experience (UX), spezialisiert auf die Bedürfnisse und Anforderungen von Softwareentwicklern.
-- Ziel ist es, Entwicklern eine reibungslose, intuitive und produktive Erfahrung zu bieten.
+  - Es ist ein Teilbereich der User Experience (UX), spezialisiert auf die Bedürfnisse und Anforderungen von Softwareentwicklern.
+  - Ziel ist es, Entwicklern eine reibungslose, intuitive und produktive Erfahrung zu bieten.
 
 _"The Developer Experience (DX) describes the experience developers have while using or working on your product. It is a package of positive and also negative feelings."_
 
@@ -122,13 +122,13 @@ _"The Developer Experience (DX) describes the experience developers have while u
 
 - **Dokumentation**:<br> Eine vollständige, klar strukturierte und leicht verständliche Dokumentation. Enthält beispielsweise eine gut gepflegte README-Datei, Tutorials, Anleitungen zur Fehlerbehebung und Beispiele für gängige Anwendungsfälle.
 
-- **API-Design**:<br> Intuitive und konsistente APIs, die den Prinzipien des sauberen Designs folgen.
+  - **API-Design**:<br> Intuitive und konsistente APIs, die den Prinzipien des sauberen Designs folgen.
 
-- **Fehlermeldungen**:<br> Hilfreiche und präzise Fehlermeldungen, die Entwicklern dabei helfen, Probleme schnell zu identifizieren und zu beheben.
+  - **Fehlermeldungen**:<br> Hilfreiche und präzise Fehlermeldungen, die Entwicklern dabei helfen, Probleme schnell zu identifizieren und zu beheben.
 
-- **Tooling**: <br>Leistungsstarke und benutzerfreundliche Tools, die die Entwicklung erleichtern und beschleunigen.
+  - **Tooling**: <br>Leistungsstarke und benutzerfreundliche Tools, die die Entwicklung erleichtern und beschleunigen.
 
-- **Community und Support**:<br> Aktive Entwicklergemeinschaft und ansprechbarer Support. Möglichkeiten zur Interaktion und zum Austausch mit anderen Entwicklern.
+  - **Community und Support**:<br> Aktive Entwicklergemeinschaft und ansprechbarer Support. Möglichkeiten zur Interaktion und zum Austausch mit anderen Entwicklern.
 
 </font>
 
@@ -145,17 +145,17 @@ _"The Developer Experience (DX) describes the experience developers have while u
 - **Fehlende oder veraltete Dokumentation**:<br>
   Fehlende Anleitungen, veraltete Informationen oder unklare Anweisungen, die die Entwickler im Stich lassen.
 
-- **Unkonsistentes API-Design**:<br>
-  APIs, die nicht intuitiv zu verwenden sind oder die gängige Prinzipien verletzen.
+  - **Unkonsistentes API-Design**:<br>
+    APIs, die nicht intuitiv zu verwenden sind oder die gängige Prinzipien verletzen.
 
-- **Nichtsaussagende Fehlermeldungen**:<br>
-  Fehlermeldungen, die unklar sind oder die Ursache des Problems nicht genau identifizieren.
+  - **Nichtsaussagende Fehlermeldungen**:<br>
+    Fehlermeldungen, die unklar sind oder die Ursache des Problems nicht genau identifizieren.
 
-- **Komplexe Tools**:<br>
-  Tools, die schwer zu erlernen und zu verwenden sind oder die nicht gut mit anderen Tools integrieren.
+  - **Komplexe Tools**:<br>
+    Tools, die schwer zu erlernen und zu verwenden sind oder die nicht gut mit anderen Tools integrieren.
 
-- **Mangelnder Support und Community**:<br>
-  Fehlende Unterstützung und eine nicht engagierte Community, die nicht bei der Lösung von Problemen hilft.
+  - **Mangelnder Support und Community**:<br>
+    Fehlende Unterstützung und eine nicht engagierte Community, die nicht bei der Lösung von Problemen hilft.
 
 </font>
 
@@ -164,8 +164,8 @@ _"The Developer Experience (DX) describes the experience developers have while u
 ## Was sind User Personas?
 
 - User Personas sind fiktive Charaktere, die typische Nutzer und deren Eigenschaften, Bedürfnisse, Motivationen und Verhaltensweisen repräsentieren.
-- Sie basieren auf den Erkenntnissen aus der Nutzerforschung und dienen als konkrete, greifbare Darstellungen von Nutzersegmenten.
-- User Personas helfen, die Perspektive der Nutzer einzunehmen und Produktentscheidungen an ihren Bedürfnissen auszurichten.
+  - Sie basieren auf den Erkenntnissen aus der Nutzerforschung und dienen als konkrete, greifbare Darstellungen von Nutzersegmenten.
+  - User Personas helfen, die Perspektive der Nutzer einzunehmen und Produktentscheidungen an ihren Bedürfnissen auszurichten.
 
 ![bg opacity:.3](images/slide-11.png)
 
@@ -177,12 +177,12 @@ _"The Developer Experience (DX) describes the experience developers have while u
 
 - **Klare Ausrichtung**<br>
   Helfen, ein gemeinsames Verständnis der Nutzer zu schaffen und sich besser auf deren Bedürfnisse auszurichten.
-- **Empathie schaffen**<br>
-  Errmöglichen es, sich besser in die Nutzer hineinzuversetzen und deren Perspektive einzunehmen.
-- **Entscheidungshilfe**<br>
-  Erleichtern Entscheidungen, indem sie dabei helfen, Optionen aus der Perspektive der Nutzer zu bewerten.
-- **Kommunikation erleichtern**<br>
-  Dienen als gemeinsame Referenzpunkte für die Kommunikation mit anderen Teammitgliedern und Stakeholdern.
+  - **Empathie schaffen**<br>
+    Ermöglichen es, sich besser in die Nutzer hineinzuversetzen und deren Perspektive einzunehmen.
+  - **Entscheidungshilfe**<br>
+    Erleichtern Entscheidungen, indem sie dabei helfen, Optionen aus der Perspektive der Nutzer zu bewerten.
+  - **Kommunikation erleichtern**<br>
+    Dienen als gemeinsame Referenzpunkte für die Kommunikation mit anderen Teammitgliedern und Stakeholdern.
 
 </font>
 
@@ -225,15 +225,15 @@ Python, TensorFlow, Jupyter Notebook, Scikit-learn, Spark, CI/CD.
 ### Ziele und Bedürfnisse:
 
 - Wünscht eine robuste Plattform, um Datenverarbeitungsjobs und ML-Modelle zu hosten.
-- Sucht nach einer einfacheren Methode, um ML-Modelle zu trainieren, zu testen und zu implementieren.
-- Macht sich Sorgen um die Performanz seiner Modelle und will dafür eine effiziente und zugleich zuverlässige Infrastruktur.
+  - Sucht nach einer einfacheren Methode, um ML-Modelle zu trainieren, zu testen und zu implementieren.
+  - Macht sich Sorgen um die Performanz seiner Modelle und will dafür eine effiziente und zugleich zuverlässige Infrastruktur.
 
 ### Frustrationen:
 
 - Hat mehr "Data" als "Science" im Job, da er viel Zeit damit verbringt, Infrastrukturprobleme zu beheben, anstatt Modelle zu trainieren.
-- Leidet unter der Komplexität von Kubernetes und findet, dass es schwer ist, all die Details zu lernen und gleichzeitig ein vollzeit Data Scientist zu sein.
-- Hat Schwierigkeiten, seine Modelle von der lokalen Entwicklungsumgebung in die Kubernetes-Umgebung zu übertragen.
-- Sieht Kubernetes als eine notwendige Hürde auf dem Weg zur erfolgreichen Modellimplementierung.
+  - Leidet unter der Komplexität von Kubernetes und findet, dass es schwer ist, all die Details zu lernen und gleichzeitig ein vollzeit Data Scientist zu sein.
+  - Hat Schwierigkeiten, seine Modelle von der lokalen Entwicklungsumgebung in die Kubernetes-Umgebung zu übertragen.
+  - Sieht Kubernetes als eine notwendige Hürde auf dem Weg zur erfolgreichen Modellimplementierung.
 
 </div>
 </div>
