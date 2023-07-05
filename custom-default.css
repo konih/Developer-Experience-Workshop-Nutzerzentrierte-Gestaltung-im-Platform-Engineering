@@ -1,0 +1,37 @@
+@import 'default';
+
+.fa-wind { color: skyblue; }
+.fa-twitter { color: aqua; }
+.fa-mastodon { color: purple; }
+.fa-linkedin { color: blue; }
+.fa-window-maximize { color: skyblue; }
+.columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+div.colwrap {
+    background-color: inherit;
+    color: inherit;
+    width: 100%;
+    height: 100%;
+}
+div.colwrap div h1:first-child, div.colwrap div h2:first-child {
+    margin-top: 0px !important;
+}
+div.colwrap div.left, div.colwrap div.right {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding: 70px 35px 70px 70px;
+}
+div.colwrap div.left {
+    right: 50%;
+    left: 0;
+}
+div.colwrap div.right {
+    left: 50%;
+    right: 0;
+}
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css';
